@@ -12,7 +12,7 @@ Without Password
 
 The H2 panel should like this:
 
-![H2 configuration](src/main/resources/images/h2configuration.png)
+![H2 configuration](https://github.com/oscarBauDev/bia-app/blob/main/src/main/resources/images/h2configuration.PNG)
 
 
 
